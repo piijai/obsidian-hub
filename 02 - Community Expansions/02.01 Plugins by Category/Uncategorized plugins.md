@@ -102,6 +102,7 @@ Plugins which have not yet been categorized by the community.
 - [[anchor-display-text|Anchor Link Display Text]]: Automatically uses the linked heading as the display text for anchor links.
 - [[android-nomedia|Android nomedia]]: Hides media from your Vault on Android devices by adding the 'nomedia' file to each folder.
 - [[animated-cursor|Animated Cursor]]: Simple yet smooth animated cursor.
+- [[anki-helper|Anki Helper]]: Standardizes Anki card display for seamless integration with the expand_to_anki plugin.
 - [[anki-integration|Anki Integration]]: Create flashcards from your notes with a seamless interface, structuring them with metadata and syncing effortlessly via AnkiConnect.
 - [[anki-sync-plus|AnkiSync+]]: Integration between Obsidian and Anki.
 - [[annotate-audio|Annotate Audio]]: Listen to an audio and add comments to it.
@@ -251,6 +252,7 @@ Plugins which have not yet been categorized by the community.
 - [[blockreffer|Blockreffer]]: Search and embed blocks with ^block-references (aka ^block-ids)
 - [[ai-blog-generator|Blog AI Generator]]: Generate blog posts from your notes using OpenAI API
 - [[blue-star|Blue Star]]: Generate Anki flashcards in multiple ways.
+- [[blueprint|Blueprint]]: Write once, update everywhere - note templates that pull from Properties.
 - [[blueprint-renderer|Blueprint Renderer]]: Render Unreal Engine Blueprint nodes as interactive visual diagrams using BlueprintUE rendering engine
 - [[bluesky|Bluesky]]: Post to Bluesky.
 - [[blur|Blur]]: Create obfuscated blocks of text.
@@ -568,6 +570,7 @@ Plugins which have not yet been categorized by the community.
 - [[day-planner-og|Day Planner (OG)]]: A plugin to help you plan your day and setup pomodoro timers; fork of the original plugin by James Lynch (which stopped at 0.5.8) which preserves the look/feel and behavior of the original.
 - [[obsidian-day-and-night|Day and Night]]: An Obsidian plugin to automatically toggle themes between day theme and night theme on a set time schedule.
 - [[days-since|Days Since]]: A plugin to show the number of days since a given date.
+- [[decks|Decks]]: Decks - Spaced repetition flashcards plugin with FSRS algorithm.
 - [[deep-sit|Deep Sit]]: Focused study and research tool that allows citing and reviewing primary sources through a Zotero integration.
 - [[deepl|DeepL]]: Allows translation of selected texts into more than 25 languages with DeepL.
 - [[new-tab-default-page|Default New Tab Page]]: Open a note of your choice when creating a new tab, like in the browser.
@@ -763,6 +766,7 @@ Plugins which have not yet been categorized by the community.
 - [[flashcard-learning|Flashcard Learning]]: This is a pluggin that implements how flashcards can be used inside Obsidian in order to learn and remember things.
 - [[flashcards-llm|Flashcards LLM]]: Use Large Language Models (such as ChatGPT) to automatically generate flashcards from obsidian notes
 - [[fleeting-notes-obsidian|Fleeting Notes Sync]]: This is a plugin to sync Fleeting Notes with Obsidian
+- [[floating-headings|Floating Headings]]: Displays a floating, collapsible outline of a note's headings on the right side of the editor. Expands on hover, click to navigate.
 - [[floating-highlights|Floating Highlights]]: Enhanced highlights for Obsidian with customizable animations and notes
 - [[float-search|Floating Search]]: You can use search view in modal/leaf/popout window now.
 - [[floccus-bookmarks-to-markdown|Floccus Bookmarks to Markdown]]: Bring your Bookmarks from Floccus to your Obsidian
@@ -843,7 +847,7 @@ Plugins which have not yet been categorized by the community.
 - [[geocoding-properties|Geocoding Properties]]: Insert address / location data from geocoding APIs as Obsidian properties.
 - [[get-info-plugin|Get Info]]: Get Info is a plugin that tucks a menu inside your status bar and shows helpful information for your chosen file 📄.
 - [[get-stock-information|Get Stock Information]]: This plugin takes a stock symbol and returns a callout block with the latest stock information.
-- [[geulo-youtube-liked-video|Geulo]]: Effortlessly fetch and manage all the YouTube videos you've liked, search and sort them, and add them to your daily note.
+- [[geulo-youtube-liked-video|Geulo]]: Fetch and manage all the YouTube videos you've liked, search and sort them, summarize with LLM (AI) and add them to your daily note.
 - [[hidden-hyperlinks|Ghost Text]]: Hide text behind display text and copy on click.
 - [[giphy|Giphy]]: Search and insert gifs in a note.
 - [[gistr|Gistr]]: Integrate Opengist and Github gists into your notes, allowing you to create, update, and share between your notes and gist services
@@ -917,6 +921,7 @@ Plugins which have not yet been categorized by the community.
 - [[hanko|Hanko]]: Register and paste any text.
 - [[hanzi-writer|Hanzi Writer]]: Interactive Chinese character writing blocks using Hanzi Writer
 - [[hard-breaks|Hard Breaks]]: Turn soft line breaks in Markdown into hard line breaks
+- [[hardcover|Hardcover]]: Sync your Hardcover library to your notes.
 - [[harper|Harper]]: The Grammar Checker for Developers
 - [[harpoon|Harpoon]]: Use shortcuts to manage and navigate your top four frequently-used files in Obsidian.
 - [[hash-pasted-image|Hash Pasted Image]]: Auto rename pasted images added to the vault via hash algorithm SHA-512
@@ -1295,6 +1300,7 @@ Plugins which have not yet been categorized by the community.
 - [[memos-sync|Memos Sync]]: Syncing memos from a [Memos](https://github.com/usememos/memos) server to your daily note. Fully compatible with official Daily Notes plugin, Calendar plugin and Periodic Notes plugin.
 - [[mention-things|Mention Things]]: Define a list of prefixes to trigger an autocomplete suggestion to insert a link.
 - [[merge-notes|Merge Notes]]: Merge the selected notes.
+- [[mermaid-icons|Mermaid Icons]]: Use Font Awesome and other icon sets within your Mermaid diagrams.
 - [[mermaid-themes|Mermaid Themes]]: Makes it easy to apply custom mermaid.js themes and apply other tweaks. This plugin is supported by advertisements.
 - [[mermaid-tools|Mermaid Tools]]: Improved Mermaid.js experience for Obsidian: visual toolbar with common elements & more
 - [[mermaid-helper|Mermaid.js Helper (OMH)]]: plug in that helps in mermaid.js workflow and more
@@ -1441,6 +1447,7 @@ Plugins which have not yet been categorized by the community.
 - [[notice-logger|Notice logger]]: Logs all notices to the developer console, with optional prefix and timestamp.
 - [[notice-controller|Notification Controller]]: Manages notifications at startup.
 - [[obsidian-notion-video|Notion Video]]: embed your notion video in obsidian
+- [[nova|Nova]]: Your AI writing partner that edits exactly where you want - select text and transform, or chat at cursor position.
 - [[novel-word-count|Novel word count]]: Displays a word count (and more!) for each file, folder and vault in the File Explorer pane.
 - [[nai4obsidian|NovelAI]]: Generate text with NovelAI's models.
 - [[nuke-orphans|Nuke Orphans]]: Plugin that trashes orphaned files and attachments
@@ -1494,7 +1501,7 @@ Plugins which have not yet been categorized by the community.
 - [[open-files-with-commands|Open files with commands]]: Create commands that only open one file at the time and that can be used with the commander plugin.
 - [[open-in-cursor|Open in Cursor]]: Add a hotkey to open the current file in Cursor IDE and jump to the cursor position
 - [[open-in-github|Open in GitHub]]: Open the current project or file in github.com.
-- [[open-in-terminal|Open in Terminal]]: Open your vault in a new terminal window or launch Claude Code, Codex CLI, or Gemini CLI directly from a terminal.
+- [[open-in-terminal|Open in Terminal]]: Open your vault in a new terminal window or launch Claude Code, Codex cli, Cursor cli, or Gemini cli directly from a terminal.
 - [[obsidian-open-in-other-editor|Open in other editor]]: Open current active file in gVim or VScode.
 - [[open-or-create-file-command|Open or Create File]]: Create custom commands that open or create files using configurable patterns and templates.
 - [[open-with-nldates|Open with Natural Language Dates]]: Open a daily note using natural language. Requires "Natural Language Dates" plugin to work.
@@ -1532,6 +1539,7 @@ Plugins which have not yet been categorized by the community.
 - [[page-scroll|Page Scroll]]: Page Up|Down|Top|Bottom
 - [[painter|Painter]]: Paint text different colors
 - [[palta-note|Palta Note]]: Render Bhatkhande notation for Tabla.
+- [[pandoc-extended-markdown|Pandoc Extended Markdown]]: Render Pandoc extended markdown syntax: fancy lists, definition lists, example lists with cross-references, superscripts, and subscripts.
 - [[obsidian-pandoc-reference-list|Pandoc Reference List]]: Displays a formatted reference in the sidebar for each pandoc citekey present in the current document.
 - [[paper-clipper|Paper Clipper]]: Capture and manage academic papers
 - [[paper_importer|Paper Importer]]: Import papers from arXiv with one click.
@@ -1913,6 +1921,7 @@ Plugins which have not yet been categorized by the community.
 - [[sortable-tables|Sortable Tables]]: Adds sortable columns to markdown tables in preview mode.
 - [[soundscapes|Soundscapes]]: Adds a music/ambiance (E.g. lofi, white noise) player to the status bar to help with concentration. Also allows you to play your own local music files.
 - [[source-code-note|Source Code Note]]: This plugin can help you organize source code note easily.
+- [[sourcemode-styling|Source Mode Styling]]: Provides a customisable raw look in source mode using a monospace font to clearly differentiate from Live Preview.
 - [[source-scanner|Source Scanner]]: Scan java source and test code for comments then place it in md files.
 - [[spaced-repetition-ai|Spaced Repetition AI]]: Review, generate, and add flashcards for your notes using AI
 - [[spaced-everything|Spaced everything]]: Apply spaced repetition algorithms to everything in your vault.
@@ -2165,6 +2174,7 @@ Plugins which have not yet been categorized by the community.
 - [[typing-transformer-obsidian|Typing Transformer]]: Improved, configurable auto formatting as typing
 - [[typing-speed|Typing speed]]: This is a plugin for showing the current typing speed in the status bar
 - [[typographer|Typographer]]: Enhances typography with smart quotes, custom text replacements and auto-pairing characters.
+- [[typst-mate|Typst Mate]]: Render math expressions with Typst instead of MathJax.
 - [[typst|Typst Renderer]]: Renders `typst` code blocks and math blocks with Typst.
 - [[unitade|UNITADE.md]]: Effortlessly treat any file extension as note, organize diverse file formats in your vault and take advancements in control of extension system even with custom modals.
 - [[uri-converter|URI Converter]]: Convert URIs to internal links.
