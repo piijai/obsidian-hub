@@ -2551,6 +2551,7 @@ tags:
 -  [[02 - Community Expansions/02.05 All Community Expansions/Plugins/table-checkboxes|table-checkboxes]]
 -  [[02 - Community Expansions/02.05 All Community Expansions/Plugins/table-editor-obsidian|table-editor-obsidian]]
 -  [[02 - Community Expansions/02.05 All Community Expansions/Plugins/table-extended|table-extended]]
+-  [[02 - Community Expansions/02.05 All Community Expansions/Plugins/table-line-break|table-line-break]]
 -  [[02 - Community Expansions/02.05 All Community Expansions/Plugins/table-list|table-list]]
 -  [[02 - Community Expansions/02.05 All Community Expansions/Plugins/table-of-contents-automatic-but-compatible-with-publish|table-of-contents-automatic-but-compatible-with-publish]]
 -  [[02 - Community Expansions/02.05 All Community Expansions/Plugins/tabout|tabout]]

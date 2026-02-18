@@ -1499,6 +1499,7 @@ Overviews of all the work from notable People like Plugins Developers, Theme Des
 -  [[01 - Community/People/marc0l92|marc0l92]]
 -  [[01 - Community/People/marcdonald|marcdonald]]
 -  [[01 - Community/People/marcel-goldammer|marcel-goldammer]]
+-  [[01 - Community/People/marcelflymark|marcelflymark]]
 -  [[01 - Community/People/marcjulianschwarz|marcjulianschwarz]]
 -  [[01 - Community/People/marcoluzi|marcoluzi]]
 -  [[01 - Community/People/MarcosNicolau|MarcosNicolau]]
