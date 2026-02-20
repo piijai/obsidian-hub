@@ -209,7 +209,6 @@ Plugins which have not yet been categorized by the community.
 - [[badges|Badges]]: Add inline badges/callouts to notes.
 - [[banyan|Banyan]]: A card-based homepage to browse, organize, and navigate notes effortlessly with multi-tag filtering.
 - [[barcode-generator|Barcode Generator]]: Generates customizable barcodes into your notes.
-- [[obsidian-basetag|Base Tag Renderer]]: This plugin renders the basename of tags.
 - [[battery-indicator|Battery Indicator]]: Displays current battery level in the status bar.
 - [[battlesnake-viewer|BattleSnake Board Viewer]]: Render BattleSnake positions diagrams in note preview.
 - [[bearings|Bearings]]: Dynamically-scoped expanding tree views of your vault's semantic and logical architectures.
@@ -246,7 +245,7 @@ Plugins which have not yet been categorized by the community.
 - [[bitcoin-block-stamp|Bitcoin Block Stamp]]: Stamp your notes with the current Bitcoin block.
 - [[blaze-jump|BlazeJump]]: Navigate through text at blazing speed.
 - [[blindfold-obsidian|BlindFold]]: Fold text by making it completely hidden.
-- [[block-link-plus|Block Link Plus]]: Enhances right-click menu and global command with direct links to blocks and titles, adds support for multi-line blockquotes, and offers extensive customization options for block IDs.
+- [[block-link-plus|Block Link Plus]]: Logseq-like outliner for scoped files, block link commands, blp-view query rendering, and inline edit for embeds.
 - [[blockier|Blockier]]: Extra block editing utilities.
 - [[blockquote-levels|Blockquote Levels]]: Adds commands for increasing/decreasing the blockquote level of the current line or selection.
 - [[blockreffer|Blockreffer]]: Search and embed blocks with ^block-references (aka ^block-ids)
@@ -370,6 +369,7 @@ Plugins which have not yet been categorized by the community.
 - [[chronotyper|Chronotyper]]: Track how long you edit notes directly in the note properties
 - [[cicada-sync|Cicada Synchronizer]]: uses Git to synchronize vaults for team collaboration.
 - [[circuit-sketcher|Circuit Sketcher]]: Draw circuits on a canvas using circuit-sketcher-core.
+- [[obsidian-circuitjs|CircuitJS]]: Embed interactive CircuitJS circuit simulations in your notes with offline support
 - [[citation-callouts|Citation Callouts]]: Elegantly formats quotes with citations from various sources into custom callouts.
 - [[class-relation-visualization|Class Relation Visualization]]: You can visualize your classes and their inheritance, composition, aggregation relation.
 - [[clear-todos|Clear Todos]]: Quickly remove all completed todos from your notes or selected text.
@@ -767,7 +767,7 @@ Plugins which have not yet been categorized by the community.
 - [[flashcards-llm|Flashcards LLM]]: Use Large Language Models (such as ChatGPT) to automatically generate flashcards from obsidian notes
 - [[fleeting-notes-obsidian|Fleeting Notes Sync]]: This is a plugin to sync Fleeting Notes with Obsidian
 - [[floating-headings|Floating Headings]]: Displays a floating, collapsible outline of a note's headings on the right side of the editor. Expands on hover, click to navigate.
-- [[floating-highlights|Floating Highlights]]: Enhanced highlights for Obsidian with customizable animations and notes
+- [[floating-highlights|Floating Highlights]]: Enhanced highlights for Obsidian
 - [[float-search|Floating Search]]: You can use search view in modal/leaf/popout window now.
 - [[floccus-bookmarks-to-markdown|Floccus Bookmarks to Markdown]]: Bring your Bookmarks from Floccus to your Obsidian
 - [[flomo-importer|Flomo Importer]]: Make Flomo Memos to Obsidian Notes
@@ -1466,7 +1466,6 @@ Plugins which have not yet been categorized by the community.
 - [[obsidian-attendance|Obsidian Attendance]]: This plugin helps you track attendance.
 - [[obsidian-badge|Obsidian Badge]]: This is a plugin to show badge for Obsidian.
 - [[obsidian-chevereto-image-uploader|Obsidian Chevereto Image Uploader]]: This plugin uploads the image in your clipboard to chevereto automatically when pasting.
-- [[obsidian-circuitjs|Obsidian CircuitJS]]: Integrating CircuitJS and Obsidian
 - [[obsidian-functionplot|Obsidian Functionplot]]: A plugin for displaying mathematical graphs in obsidian.md.
 - [[obsidian-mtg|Obsidian MtG]]: A plugin for managing Magic: The Gathering decks and card lists as Obsidian notes
 - [[obsidian-ocr|Obsidian OCR]]: Add ocr capabilities to obsidian
@@ -2006,6 +2005,7 @@ Plugins which have not yet been categorized by the community.
 - [[tab-shifter|Tab Shifter]]: Enables shifting tabs between different tab splits and some other basic IDE tab functionalities
 - [[table-checkbox-renderer|Table Checkbox Renderer]]: Interactive checkboxes for Markdown tables. Toggle checkboxes in Reading Mode to instantly update the Markdown file. Supports multiple checkboxes per cell and any table layout.
 - [[obsidian-table-generator|Table Generator]]: A plugin for generate markdown table quickly like Typora /card table in canvas .
+- [[table-line-break|Table Line Break Mobile]]: Insert line breaks into tables on mobile devices via shortcut or toolbar.
 - [[table-list|Table List]]: Adds a table view to manage your tasks.
 - [[obsidian-table-to-csv-exporter|Table to CSV Exporter]]: This plugin allows for exporting tables from a pane in reading mode into CSV files.
 - [[tabout|Tabout]]: Easily "tab out" of Links or other Markdown Formatting Characters.
